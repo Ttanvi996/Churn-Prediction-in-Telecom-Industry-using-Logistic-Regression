@@ -37,9 +37,13 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 
 **Why Logistic Regression?**
 - Simple and easy to understand
-- Works well for binary problems
-- Fast training
+- Works well for binary problems(yes/no)
+- Trains faster compared to complex models
 - Provides interpretable results
+- Requires less computational power
+- Helps understand how each feature affects churn
+- Suitable for medium and large datasets
+- Easy to implement using Scikit-learn
 
 ## Techniques Used
 
