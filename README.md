@@ -17,7 +17,7 @@ Install using:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 
-
+ ```
 ## Algorithm Used
 
 ### Logistic Regression
