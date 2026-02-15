@@ -10,6 +10,14 @@
 **Target Variable:**
 - Churn → Yes = 1, No = 0
 
+**Libraries Used:**
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learnJ
+- Jupyter Notebook
+
 ## Dependencies
 
 Install using:
@@ -42,10 +50,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 - Exploratory Data Analysis (EDA)
 - Train-Test Split (70% Train, 30% Test)
 - Model Training and Testing
-
-**Purpose:**
-These techniques improve data quality, make data suitable for ML models, and increase prediction accuracy.
-
 ## Model Performance
 
 **Accuracy Achieved:**
@@ -59,13 +63,3 @@ These techniques improve data quality, make data suitable for ML models, and inc
 | Recall    | 64%    |
 | F1-Score  | 68%    |
 
-##  Conclusion
-
-- The project successfully predicts telecom customer churn.
-- Logistic Regression achieved good accuracy.
-- Data preprocessing improved model performance.
-- Visual analysis helped understand customer behavior.
-- The model can help telecom companies reduce customer loss.
-
-**Final Outcome:**
-This project demonstrates strong understanding of machine learning fundamentals and practical implementation.
