@@ -54,16 +54,4 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 - Exploratory Data Analysis (EDA)
 - Train-Test Split (70% Train, 30% Test)
 - Model Training and Testing
-## Model Performance
-
-**Accuracy Achieved:**
-- 80.75%
-
-## Precision, Recall, and F1-Score
-
-| Metric    | Value |
-|-----------|--------|
-| Precision | 72%    |
-| Recall    | 64%    |
-| F1-Score  | 68%    |
 
